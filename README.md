@@ -1,4 +1,6 @@
 # 打造高效文件重命名工具：从拖拽排序到多选框的进化之路
+<img width="1820" height="915" alt="image" src="https://github.com/user-attachments/assets/9a113ee3-090d-4f36-9795-4ff1900784b2" />
+
 
 ## 前言
 
